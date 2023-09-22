@@ -1,0 +1,2 @@
+# sauna_search_rb2
+サウナアプリのバックエンドをRailsで作成
